@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://pasinduwic.github.io/csb-89zjmw/static/css/main.fc5c2c69.css",
+    "main.js": "https://pasinduwic.github.io/csb-89zjmw/static/js/main.63e940f1.js",
+    "index.html": "https://pasinduwic.github.io/csb-89zjmw/index.html",
+    "main.fc5c2c69.css.map": "https://pasinduwic.github.io/csb-89zjmw/static/css/main.fc5c2c69.css.map",
+    "main.63e940f1.js.map": "https://pasinduwic.github.io/csb-89zjmw/static/js/main.63e940f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.63e940f1.js"
+  ]
+}
